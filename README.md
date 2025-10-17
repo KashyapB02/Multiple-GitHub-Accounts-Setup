@@ -1,5 +1,7 @@
 # Managing Multiple GitHub Accounts - Complete Setup Guide (Windows, macOS & Linux)
 
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/c106bffa-5d6c-48f3-8335-fcb432bf58a0" />
+
 This guide helps you set up and manage **multiple GitHub accounts** - personal, work, freelance, or more — cleanly on **Windows, macOS, or Linux**.
 
 It covers:
